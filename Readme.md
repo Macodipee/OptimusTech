@@ -24,12 +24,6 @@ O site apresenta:
 - Trabalhar com design limpo, focado na experiência do usuário.
 - Utilizar boas práticas de desenvolvimento front-end.
 
-## 📸 Preview do Projeto
-
-![Preview do projeto](https://imgur.com/a/lPLGmfr)
-
-> Página criada durante o desafio 7 Days of Code - Alura
-
 ## 📁 Como Rodar o Projeto
 
 1. Clone o repositório:
