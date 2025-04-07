@@ -26,7 +26,7 @@ O site apresenta:
 
 ## 📸 Preview do Projeto
 
-![Preview do projeto](https://i.imgur.com/COLE-O-LINK-DIRETO-DA-IMAGEM-AQUI.png)
+![Preview do projeto](https://imgur.com/a/lPLGmfr)
 
 > Página criada durante o desafio 7 Days of Code - Alura
 
